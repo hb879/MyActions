@@ -35,7 +35,7 @@ FORK后，如果actions没有定时执行，请随便找个文件，加个空格
 3. 多条cookie用`&`隔开，支持无数条cookie
 4. 前三步之后，点击一下右上角的star（fork左边那个），让workflow运行一次。
 
-上面四步搞定后就不用管了。
+上面四步搞定后就不用管了。yes
 
 刚fork完可能在Actions中看不到对应的workflow
 
